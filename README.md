@@ -15,7 +15,7 @@ Follow these instructions to set up and run the game on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com//.git
+   git clone https://github.com/raunaq-rai/snake_game.git
    cd 
    ```
 
